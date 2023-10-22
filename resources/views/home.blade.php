@@ -14,7 +14,7 @@
                             </div>
                         @endif
 
-                        <h3 class="mt-3 text-center text-white">Скачать аудио с YT:</h3>
+                        <h3 class="mt-3 text-center text-white">Скачать аудио1 с YT:</h3>
                         <div class="mb-3 mt-3">
                             <div class="d-flex justify-content-between">
                                 <div class="form-check form-switch d-flex align-items-center">
